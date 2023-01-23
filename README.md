@@ -36,7 +36,7 @@ Run the game executable to start the game.
 Use the arrow keys to move the character
 Press 'spacebar' to kill the enemy
 
-##Game Objective
+## Game Objective
 
 The objective of the game is to control the player and help him survive by running and killing the enemies.
 
